@@ -12,10 +12,10 @@
     <h1>List</h1>
       <div class="text-center">
         <v-row>
-          <v-col cols="12" sm="6" v-for="image in images" v-bind:key="image.src">
+          <v-col cols="12" md="3" sm="6" xs="12" v-for="image in images" v-bind:key="image.src">
             <v-card>
               <v-card-title class="headline">
-                Image
+                Screenshot
               </v-card-title>
               <v-card-text>
                 {{ image.src }}
