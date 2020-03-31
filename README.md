@@ -1,6 +1,7 @@
 # screenshots
 
-> My good Nuxt.js project
+> your screenshots viewer
+> Nuxt.js project
 
 ## Build Setup
 
