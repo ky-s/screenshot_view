@@ -8,6 +8,9 @@
 # install dependencies
 $ yarn install
 
+# set your pictures directory symbolic-link to 'static/pictures'
+ln -s ~/pictures pictures
+
 # serve with hot reload at localhost:3000
 $ yarn dev
 
